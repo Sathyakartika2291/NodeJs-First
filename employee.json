@@ -1,0 +1,44 @@
+{"Employee": [
+    {
+        "id": 1,
+        "EmployeeName": "James",
+        "ProjectId": "FSFHGF7667",
+        "Salary": "200000",
+        "Age": "24"
+    },
+    {
+        "id": 2,
+        "EmployeeName": "Jack",
+        "ProjectId": "FRETGRGF566",
+        "Salary": "300000",
+        "Age": "25"
+    },
+    {
+        "id": 3,
+        "EmployeeName": "Robert",
+        "ProjectId": "VFDFDVD4343",
+        "Salary": "400000",
+        "Age": "21"
+    },   {
+        "id": 4,
+        "EmployeeName": "Jack",
+        "ProjectId": "RETRE454578",
+        "Salary": "250000",
+        "Age": "25"
+    },
+    {
+        "id": 5,
+        "EmployeeName": "Mick",
+        "ProjectId": "FSDDS9865",
+        "Salary": "500000",
+        "Age": "25"
+    },
+    {
+        "id": 6,
+        "EmployeeName": "Jhon",
+        "ProjectId": "KJLKJ66465",
+        "Salary": "350000",
+        "Age": "25"
+    }
+]
+}

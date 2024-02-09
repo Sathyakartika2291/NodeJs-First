@@ -1,0 +1,41 @@
+{
+    "Project": [
+        {
+            "id": 1,
+            "ProjectName": "Web Scraping",
+            "ProjectId": "FRETGRGF566",
+            "Description": "Web Scraping is a fun activity app that can be built for features like customer review analysis, price prediction, lead generation, data collection, etc. It is very useful to build projects by using Beautiful Soup (which is a free, open-source Python Library), and all the necessary data can be crawled back as per the preference."
+        },
+        {
+            "id": 2,
+            "ProjectName": "Weather Forecasting",
+            "ProjectId": "FSFHGF7667",
+            "Description": " Data Gathering & Pre-processing, and Prediction Algorithm. This project would be based on prediction and that’s why data needs to be prepared in a structured way. For this, you can either be parsing or one-hot encoding. It’s best to implement Scikit-Learn (linear regression) model to train the datasets and once they’re trained you can provide inputs"
+         },
+        {
+            "id": 3,
+            "ProjectName": "Local Train Ticketing System",
+            "ProjectId": "RETRE454578",
+            "Description": "The payment system can also be included in this application so that users can add funds (via UPI, Netbanking, debit/credit cards, etc.), and likewise, they won’t be required to print their tickets while traveling. This will allow the user to download their tickets in pdf or other formats (just like a movie ticket), and with the same mode, they can also request to Cancel their tickets within 3 hours of the journey."
+        },   {
+            "id": 4,
+            "ProjectName": "Patient Tracker",
+            "ProjectId": "VFDFDVD4343",
+            "Description": "This is an Android-based application that aims to ensure maintain patient information along with the medical condition. In this project, the doctor would be able to fetch all the records of the patient every time he/she visits for a checkup. This will require Eclipse and SQL to build this project."
+        },
+        {
+            "id": 5,
+            "ProjectName": "Library Management System",
+            "ProjectId": "KJLKJ66465",
+            "Description": "Library management is a sub-discipline of institutional management that focuses on specific issues faced by libraries and library management professionals. Library management encompasses normal managerial tasks, as well as intellectual freedom and fundraising responsibilities. Issues faced in library management frequently overlap with those faced in managing non-profit organizations"
+            
+        },
+        {
+            "id": 6,
+            "ProjectName": "Fingerprint Voting System",
+            "ProjectId": "FSDDS9865",
+            "Description": "This project focuses on building a finger-print EVM (Electronic Voting Machine) that will lead to conducting successful elections. It’s a solid solution for any small-scale elections and can also be used within organizations for conducting polls during meetings."
+       
+        }
+    ]
+}

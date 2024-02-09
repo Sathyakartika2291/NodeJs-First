@@ -1,0 +1,21 @@
+<head>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<body>
+    <h1 class="background"> <%=title%>
+    </h1>
+    <table>
+    <tr><th>Id</th>
+ <th>CreatedAt</th>
+  <th> Name</th>
+</tr>
+<%emplist.forEach((x)=>{%>
+<tr>
+<td><%=x.id%></td>
+<td><%=x. createdAt%></td>
+<td><%=x.name%></td>
+</tr>
+<%})%>
+</table>
+</body>
